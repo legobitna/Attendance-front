@@ -1,0 +1,42 @@
+export const studentData = [
+  {
+    id: "SjpC7GwkRuWkN6EI2qzTgQ",
+    user_id: "16779264",
+    name: "Hưng Trần Quang",
+    user_email: "medfanatic4342424344@gmail.com",
+    course_name: "Fullstack Web Development",
+    cohort_name: "Catalina",
+  },
+  {
+    id: "TLQXgO4iS7mfxIERH5ImoQ",
+    user_id: "16783360",
+    name: "Richard Vo",
+    user_email: "ricvo525253@gmail.com",
+    course_name: "Fullstack Web Development",
+    cohort_name: "Mojave",
+  },
+  {
+    id: "Yp95sQ1mRsCRCbBmOYEVWw",
+    user_id: "16786432",
+    name: "Ngoc (Jade) Nguyen",
+    user_email: "jade32341455@gmail.com",
+    course_name: "Machine Learning",
+    cohort_name: "Cheetah",
+  },
+  {
+    id: "IO3yRoLpTaubwHUKANZvMQ",
+    user_id: "16788480",
+    name: "Katy Tran",
+    user_email: "hanhchi98@gmail.com",
+    course_name: "Machine Learning",
+    cohort_name: "Treo",
+  },
+  {
+    id: "Yp95sQ1mRsCRCbBmOYEVWw",
+    user_id: "16798720",
+    name: "Ngoc (Jade) Nguyen",
+    user_email: "jade32341455@gmail.com",
+    course_name: "Machine Learning",
+    cohort_name: "Tusan",
+  },
+];

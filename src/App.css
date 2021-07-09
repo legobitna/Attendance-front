@@ -1,0 +1,18 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 3rem 0rem 0rem 0rem;
+  margin: 0rem 0rem 0rem 0rem;
+  text-align: center;
+  align-items: center;
+}
+.list-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 3rem 0rem 10rem 0rem;
+  margin: 0rem 0rem 0rem 0rem;
+  text-align: center;
+  align-items: center;
+}
